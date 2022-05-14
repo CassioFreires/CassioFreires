@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Estou trabalhando com front-end
-- 🎓 Curso Análise e desenvolvimento de sistemas 
+- 🎓 Curso Análise e desenvolvimento de sistemas / 2° período
 - 📚 Estou estudando javascript
 
  <div>
