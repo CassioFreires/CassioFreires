@@ -1,4 +1,4 @@
-### Olá eu sou Cassio Freires 👋
+### Olá, eu sou Cassio Freires 👋
 
 <!--
 **CassioFreires/CassioFreires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
