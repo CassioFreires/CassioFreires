@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 - 💻 Estou trabalhando com front-end
 - 🎓 Curso Análise e desenvolvimento de sistemas / 3° período
-- 📚 Estou estudando javascript
-
+- 📚 Estou estudando front-end!
  <div>
   <a href="https://github.com/CassioFreires">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CassioFreires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
