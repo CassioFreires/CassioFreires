@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Developer Front-End!
-- 🎓 Curso Análise e desenvolvimento de sistemas / 4° período
+- 🎓 Formador em Análise e desenvolvimento de sistemas!
 - 📚 Estou estudando front-end!
  <div>
   <a href="https://github.com/CassioFreires">
