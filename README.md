@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Developer Fullstack!
-- 🎓 Formador em Análise e desenvolvimento de sistemas!
+- 🎓 Formado em Análise e desenvolvimento de sistemas!
+- 🎓 Pós graduação em engenharia de software!
  <div>
   <a href="https://github.com/CassioFreires">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CassioFreires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
