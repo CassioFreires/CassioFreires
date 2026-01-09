@@ -14,13 +14,7 @@ Soluções web, APIs e sistemas corporativos com foco em negócio, escalabilidad
 ---
 
 ## 🛰️ Tecnologia & Exploração (Imagem dinâmica)
-<p align="center">
-  <img 
-    src="https://source.unsplash.com/1600x600/?technology,space,code"
-    width="100%"
-    style="border-radius:16px;"
-  />
-</p>
+<img src="./nasa.jpg" width="100%" style="border-radius:16px;" />
 
 ---
 
